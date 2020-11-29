@@ -6,7 +6,7 @@ I'm Alison Maziero and currently am studying fullstack web and app development. 
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alison-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alison-maziero-5a433351/) [![Mail Badge](https://img.shields.io/badge/-@alison_maziero-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/alison_maziero/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alison_lens@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Alison-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alison-maziero-5a433351/) [![Mail Badge](https://img.shields.io/badge/-@alison_maziero-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/alison_maziero/) [![Mail Badge](https://img.shields.io/badge/-alison-c0392b?style=flat&labelColor=c0392b&logo=microsoft&logoColor=white)](mailto:alison_lens@hotmail.com)
 
 
 #### Top Technologies
@@ -17,8 +17,8 @@ I'm Alison Maziero and currently am studying fullstack web and app development. 
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+<!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
+- :email: alison_lens@hotmail.com
 
 
 #### Profile Visits 
