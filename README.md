@@ -34,8 +34,7 @@ I'm Alison Maziero and currently am studying fullstack web and app development. 
 
 <!--START_SECTION:waka-->
 ```text
-Python   2 hrs 24 mins   █████████████████████▒░░░   84.79 % 
-SQL      23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-CSV      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Python   2 hrs 24 mins   ████████████████████████▓   98.40 % 
+CSV      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 <!--END_SECTION:waka-->
