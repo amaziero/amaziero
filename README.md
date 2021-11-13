@@ -34,6 +34,6 @@ I'm Alison Maziero and currently am studying fullstack web and app development. 
 
 <!--START_SECTION:waka-->
 ```text
-Elixir   5 hrs 39 mins   █████████████████████████   99.85 % 
+Elixir   4 hrs 48 mins   █████████████████████████   99.83 % 
 ```
 <!--END_SECTION:waka-->
