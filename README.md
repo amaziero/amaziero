@@ -34,10 +34,9 @@ I'm Alison Maziero and currently am studying fullstack web and app development. 
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   11 hrs 56 mins  ████████████████████████░   95.68 % 
-Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JavaScript   11 hrs 39 mins  ████████████████████████▓   98.78 % 
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
