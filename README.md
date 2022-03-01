@@ -33,7 +33,9 @@ I'm Alison Maziero and currently am studying fullstack web and app development. 
 #### Github Stats
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
